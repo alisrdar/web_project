@@ -165,7 +165,12 @@
             <p class="foot-abt-text">We are passionate advocates of an eco-friendly and sustainable lifestyle. Our mission is to inspire and empower individuals 
                 to make choices that benefit not only themselves but also planet we call home</p>
         <div class="icons">
-                  <a href="#"><ion-icon name="logo-facebook"></ion-icon></a><a href="#"> <ion-icon name="logo-skype"></ion-icon></a><a href="#"><ion-icon name="logo-instagram"></ion-icon></a><a href="#"> <ion-icon name="logo-twitter"></ion-icon></a><a href="#"> <ion-icon name="logo-google"></ion-icon></a><a href="#"> <ion-icon name="logo-skype"></ion-icon></a>
+                  <a href="#"><ion-icon name="logo-facebook"></ion-icon></a>
+                  <a href="#"><ion-icon name="logo-skype"></ion-icon></a>
+                  <a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
+                  <a href="#"><ion-icon name="logo-twitter"></ion-icon></a>
+                  <a href="#"><ion-icon name="logo-google"></ion-icon></a>
+                  <a href="#"><ion-icon name="logo-skype"></ion-icon></a>
                         
         </div>
         
